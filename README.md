@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0733-flood-fill](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0733-flood-fill) |
 ## Depth-First Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
