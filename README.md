@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0733-flood-fill) |
 ## Depth-First Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0733-flood-fill) |
 ## Math
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rishabh7068/LeetCode-Question/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
